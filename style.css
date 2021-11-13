@@ -1,0 +1,33 @@
+body{
+    background: rgb(86, 88, 236);
+}
+
+
+#title, .subtitle{
+    color: rgb(253, 250, 250);
+    
+}
+
+.post_title{
+    color:rgb(86, 88, 236);
+    font-size: 22px;
+    font-style: italic;
+}
+
+.post{
+    background: rgb(253, 250, 250);
+    padding: 10px;
+    border: 1px solid rgb(14, 1, 1);
+    height:30%;
+    width: 90%;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.rodape{
+    color: rgb(253, 250, 250);
+
+}
